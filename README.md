@@ -1,6 +1,6 @@
 <h1 align="center">Mario Jump</h1>
 
-<img src="client/src/assets/logo.png" alt="UNO Logo" width="33%" align="center" />
+<img src=["client/src/assets/logo.png](https://static.wikia.nocookie.net/pm-universe/images/9/9c/Mario_-_Mario_Party_10.png/revision/latest?cb=20190511215139)" alt="Mario Logo" width="33%" align="center" />
 
 ## 🤔 What is Mario-Jump?
 
@@ -8,7 +8,7 @@ Mario Jump is a fun game. Just like the dragon game we get in the chrome browser
 
 ## ⚠️ Game Rules
 
-The player needs to avod any collison with the mushroom.
+The player needs to avoid any collison with the mushroom.
 
 ## 🧐 How to Play?
 
@@ -18,9 +18,7 @@ The player needs to avod any collison with the mushroom.
 
 ## 🏁 Getting Started (to run game locally)
 
-Follow the steps below, after cloning the repository:
-
-### 🖐 Requirements
+Follow the steps below:
 
 1. To run the game locally you can go to the git directory and download the zip file. 
 2. Now extract the zip file and double click the index.html file, it will automatically start in your default web browser.
@@ -29,9 +27,9 @@ Follow the steps below, after cloning the repository:
 
 * The images have been taken from google search.
 
-## Developers
+## 👩🏻‍💻👨🏻‍💻 Developers
 
 This project has been developed by the "Bro-Code" group as a web development project for a hackathon competition.The developers are:
-1. Damini Goyal (#)
-2. Harshita Mishra (#)
-3. Gyanendra Kumar (#)
+1. Damini Goyal (https://www.linkedin.com/in/damini-goyal-262179210)
+2. Harshita Mishra (https://www.linkedin.com/in/harshita-mishra-388542202/)
+3. Gyanendra Kumar (https://www.linkedin.com/in/gyanendra-kumar-a79193207/)
